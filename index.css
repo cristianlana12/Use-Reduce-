@@ -1,0 +1,13 @@
+body{
+  background: #000;
+  color: #fff;
+  padding: 5px;
+}
+
+p{
+  color: white;
+}
+
+button{
+  margin: 2px 4px;
+}
